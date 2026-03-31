@@ -7,7 +7,7 @@ import add_song from './add_song.png'
 import song_icon from './song_icon.png'
 import album_icon from './album_icon.png'
 import upload_song from './upload_song.png'
-export const url="import.meta.env.https://wavefy-backend-akfh.onrender.com"|| "http://localhost:5000";
+export const url="import.meta.env.VITE_BACKEND_URL|| "https://wavefy-backend-akfh.onrender.com";
 export const assets ={
     logo,
     logo_small,
