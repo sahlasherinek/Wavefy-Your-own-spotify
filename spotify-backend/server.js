@@ -18,8 +18,14 @@ connectCloudinary();
 //middlewares
 app.use(express.json())
 app.use(cors({
-  origin: ['http://localhost:3000', 'http://localhost:5173', 'http://localhost:4000'],
+  origin: [
+    'http://localhost:3000',
+    'http://localhost:5173',
+    process.env.FRONTEND_URL,
+    process.env.ADMIN_URL
+  ].filter(Boolean),
   credentials: true
+
 }))
 
 //initializing routes
