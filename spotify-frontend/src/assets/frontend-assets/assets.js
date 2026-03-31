@@ -24,7 +24,7 @@ import spotify_logo from './spotify_logo.png'
 import clock_icon from './clock_icon.png'
 import mute_icon from './mute_icon.png'
 import music_gif from './music_gif.gif'
-export const url="import.meta.env.VITE_https://wavefy-backend-akfh.onrender.com"|| "http://localhost:5000";
+export const url="import.meta.env.VITE_https://wavefy-backend-akfh.onrender.com"|| "http://localhost:5000"
 export const assets = {
     bell_icon,
     home_icon,
