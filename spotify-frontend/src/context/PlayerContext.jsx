@@ -6,7 +6,7 @@ export const PlayerContext = createContext();
 
 const PlayerContextProvider = (props) => {
 
-    const url = 'http://localhost:4000';
+    const url = 'https://wavefy-backend-akfh.onrender.com'
 
     const audioRef = useRef();
     const seekBar = useRef();
