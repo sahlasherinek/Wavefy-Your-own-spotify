@@ -21,11 +21,11 @@ app.use(cors({
   origin: [
     'http://localhost:3000',
     'http://localhost:5173',
+    'https://wavefy-your-own-spotify.vercel.app',
     process.env.FRONTEND_URL,
     process.env.ADMIN_URL
   ].filter(Boolean),
   credentials: true
-
 }))
 
 //initializing routes
