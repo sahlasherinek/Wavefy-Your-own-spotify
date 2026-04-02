@@ -136,7 +136,7 @@ I used [GreatStack YouTube channel](https://www.youtube.com/@GreatStackDev) to d
 ![Add Album](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/add_album.png)
 
 ### 📋 Admin — List Songs
-![List Songs](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/list_songs.png)
+![List Songs](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/List_Songs.png)
 
 ### 📋 Admin — List Albums
 ![List Albums](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/List_albums.png)
