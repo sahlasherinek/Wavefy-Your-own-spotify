@@ -1,7 +1,8 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react'
 import { toast } from 'react-toastify';
-import { url } from '../App';
+// import { url } from '../App';
+import { url } from "../config";
 
 function ListSong() {
     const [data, setData] = useState([]);

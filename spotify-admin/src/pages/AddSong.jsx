@@ -1,7 +1,8 @@
 import { assets } from "../assets/admin-assets/assets"
 import { useEffect, useState } from 'react';
 import axios from 'axios';
-import { url } from "../App";
+// import { url } from "../App";
+import { url } from "../config";
 import { toast } from "react-toastify";
 
 function AddSong() {

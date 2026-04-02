@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useState } from "react";
-import { url } from "../App";
+// import { url } from "../App";
+import { url } from "../config";
 import { toast } from "react-toastify";
 import { assets } from "../assets/admin-assets/assets";
 
