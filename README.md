@@ -130,16 +130,16 @@ I used [GreatStack YouTube channel](https://www.youtube.com/@GreatStackDev) to d
 ![Album View](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/af.png)
 
 ### ⚙️ Admin — Add Song
-![Add Song](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/add song.png)
+![Add Song](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/add_song.png)
 
 ### 📀 Admin — Add Album
-![Add Album](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/add album.png)
+![Add Album](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/add_album.png)
 
 ### 📋 Admin — List Songs
-![List Songs](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/list songs.png)
+![List Songs](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/list_songs.png)
 
 ### 📋 Admin — List Albums
-![List Albums](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/List albums.png)
+![List Albums](https://github.com/sahlasherinek/Wavefy-Your-own-spotify/raw/main/screenshots/List_albums.png)
 
 ---
 
