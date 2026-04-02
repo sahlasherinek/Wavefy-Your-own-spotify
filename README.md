@@ -83,7 +83,7 @@ It includes functionalities for creating, browsing, and removing albums, as well
 I used [GreatStack YouTube channel](https://www.youtube.com/@GreatStackDev) to develop this project. Thank you for the useful content. -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=50&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=🎵+WAVEFY;Your+Own+Spotify" alt="Wavefy" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=50&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=%F0%9F%8E%B5+WAVEFY;Your+Own+Spotify" alt="Wavefy" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
